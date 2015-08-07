@@ -1,0 +1,10 @@
+<p> Welcome!! <p>
+{% if data_list %}
+    <ul>
+	{% for data in data_list %}
+		<li>{{data}}</li>
+	{% endfor %}
+	</ul>
+{% else %}
+    <p>no data.</p>
+{% endif %}

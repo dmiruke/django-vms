@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+recursive-include vms/static *
+recursive-include vms/templates *
+recursive-include docs *

@@ -11,8 +11,8 @@ Detailed documentation is in the "docs" directory.
 Features
 ********
 
-# support admin page for management video
-# using `Elasticsearch <https://www.elastic.co/products/elasticsearch>`_ for store and explore video
+* support admin page for management video
+* using `Elasticsearch <https://www.elastic.co/products/elasticsearch>`_ for store and explore video
 
 ********
 Quick start

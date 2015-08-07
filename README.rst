@@ -1,8 +1,8 @@
 ##########
-django VMS (Video Management System)
+django VMS
 ##########
 
-VMS is a simple video management system based on the django framework
+VMS(Video Management System) is a simple video management system based on the django framework
 question, visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the "docs" directory.
